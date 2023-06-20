@@ -1,3 +1,16 @@
+# JPA 학습 전 필수 지식
+### Spring IOC, Spring Bean, Spring container
+### Configuration, @Bean, @Component, @Mapper, @Repository, @Service, @Controller
+### 3-Tier(Persistence, Business, Presentation)
+### Spring MVC(Front Controller Pattern)
+### @RequestParam, @RequestBody, @ResponseBody, @RestController
+### @Transactional
+### AOP(핵심 로직에만 집중하도록(관점 지향), Proxy
+### MultipartRequest
+
+
+
+
 # JPA(Java Persistence API)
 ### JPA는 자바 진영에서 ORM(Object-Relational Mapping) 기술 표준으로 사용되는 인터페이스의 모음이다. 
 ### 다시 말해, 실제적으로 구현된것이 아니라 구현된 클래스와 매핑을 해주기 위해 사용되는 프레임워크이다. 
