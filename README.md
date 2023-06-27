@@ -1,3 +1,4 @@
+# 왜 Mybatis 대신 JPA를 사용할까?
 # JPA 학습 전 필수 지식
 ### Spring IOC, Spring Bean, Spring container
 ### Configuration, @Bean, @Component, @Mapper, @Repository, @Service, @Controller
